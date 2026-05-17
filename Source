@@ -1,3 +1,11 @@
+--[[
+    scoot ui library
+    made by samet
+    remade by anhchangm52
+    
+    example/documentation is at the bottom
+]]
+
 if Library then
     Library:Unload()
 end
